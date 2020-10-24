@@ -2,3 +2,4 @@ this is common file
 saturday happy hours
 go to movies
 nothing
+added in the branch loginbug fix
